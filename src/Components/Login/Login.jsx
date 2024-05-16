@@ -6,7 +6,7 @@ import { FaLock, FaUser } from 'react-icons/fa'
 
 import "./Login.css";
 
-const Login = () => {
+const Login1 = () => {
 
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -54,4 +54,4 @@ const Login = () => {
   )
 } 
 
-export default Login
+export default Login1
